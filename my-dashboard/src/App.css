@@ -1,0 +1,44 @@
+.sidebar{
+  background-color: rgb(207, 201, 201);
+  height: 728px;
+}
+
+
+.rightSection{
+  height: 728px;
+  background-color: rgb(188, 184, 184);
+}
+
+
+.topSideBarInnerGrid{
+  z-index: 3;
+  background-color: aquamarine;
+  text-align: center;
+  /* padding: 5px; */
+}
+
+.sidebarInnerLeft{
+  z-index: 3;
+  /* background-color: aqua; */
+}
+
+.sidebarInnerRight{
+  z-index: 3;
+  /* background-color: aqua; */
+  float: right;
+}
+
+.bottomLeft{
+  z-index: 3;
+  background-color:aquamarine;
+}
+
+.bottomRight{
+  z-index: 3;
+  background-color: aquamarine;
+}
+
+.dashboardBoxes{
+  padding: 10px;
+  background-color: rgb(107, 112, 116);
+}
